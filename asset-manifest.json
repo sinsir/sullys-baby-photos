@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sullys-baby-photos/static/css/main.e6c13ad2.css",
+    "main.js": "/sullys-baby-photos/static/js/main.dbb9c045.js",
+    "static/js/787.84a7de95.chunk.js": "/sullys-baby-photos/static/js/787.84a7de95.chunk.js",
+    "index.html": "/sullys-baby-photos/index.html",
+    "main.e6c13ad2.css.map": "/sullys-baby-photos/static/css/main.e6c13ad2.css.map",
+    "main.dbb9c045.js.map": "/sullys-baby-photos/static/js/main.dbb9c045.js.map",
+    "787.84a7de95.chunk.js.map": "/sullys-baby-photos/static/js/787.84a7de95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dbb9c045.js"
+  ]
+}
